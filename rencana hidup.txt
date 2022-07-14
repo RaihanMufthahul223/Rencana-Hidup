@@ -2,5 +2,6 @@
 -Memahami Laravel
 -Memahami Github dan GIt
 -Memahami Algoritma
+-Membuat orang tua bahagia
 -Memahami Struktur Data
--Membahagiakan Orang tua
+
