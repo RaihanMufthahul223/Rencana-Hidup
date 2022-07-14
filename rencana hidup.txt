@@ -1,1 +1,3 @@
 -Hidup
+-Memahami Laravel
+-Memahami Github dan GIt
