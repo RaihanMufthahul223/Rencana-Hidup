@@ -3,3 +3,4 @@
 -Memahami Github dan GIt
 -Memahami Algoritma
 -Memahami Struktur Data
+-Membahagiakan Orang tua
